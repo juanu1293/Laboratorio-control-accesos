@@ -1,0 +1,7 @@
+﻿# Logs y transcripciones locales (traen nombre del PC y del usuario)
+evidencias/*.txt
+*.log
+# Archivos temporales del sistema
+Thumbs.db
+desktop.ini
+~$*
